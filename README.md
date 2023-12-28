@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @areebaish
-- 👀 I’m interested in web development, particularly in front-end and user interface design. I enjoy creating visually appealing and user-friendly websites and web applications.
-- 🌱 I’m currently learning new web development frameworks and technologies to stay up-to-date with the latest trends in the field. 
-- 💞️ I’m looking to collaborate on web development projects with other developers, designers, or businesses
-- 📫 How to reach me through my email address [areebaakram936@gmail.com]
 
-<!---
-areebaish/areebaish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  # Areeba AKRAM online shop  project bscs 5
+
+  Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
+
+  To preview and run the project on your device:
+  1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
+  2) In the terminal, run `npm install`
+  3) Run `npm start` to view project in browser
+  
