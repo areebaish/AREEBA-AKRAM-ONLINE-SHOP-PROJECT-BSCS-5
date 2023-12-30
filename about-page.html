@@ -26,36 +26,48 @@
   <body>
     <div class="about-page">
       <div class="frame">
-        <div class="nav">
-          <a class="ellipse-stroke-parent" href="./h-o-m-e-page.html">
-            <img
-              class="ellipse-stroke-icon"
-              alt=""
-              src="./public/ellipse-stroke@2x.png"
-            />
+        <div class="navigation-bar">
+          <div class="nav">
+            <div class="nav-child"></div>
+            <input class="nav-item" placeholder="   search..." type="text" />
 
-            <div class="group-child"></div>
-            <img
-              class="ellipse-2-stroke"
-              alt=""
-              src="./public/ellipse-2-stroke@2x.png"
-            />
-          </a>
-          <input class="nav-child" placeholder="  search... " type="text" />
+            <div class="image-20-parent">
+              <img
+                class="image-20-icon"
+                alt=""
+                src="./public/image-20@2x.png"
+              />
 
-          <a class="image-31" href="./c-a-r-t-p-a-g-e.html" id="image31"> </a>
-          <img class="bell-icon" alt="" src="./public/bell@2x.png" />
+              <i class="trendingoutfits">TrendingOutfits</i>
+            </div>
+            <div class="image-31-parent">
+              <a class="image-31" href="./c-a-r-t-p-a-g-e.html" id="image31">
+              </a>
+              <a
+                class="ellipse-stroke-parent"
+                href="./login.html"
+                id="groupLink"
+              >
+                <img
+                  class="ellipse-stroke-icon"
+                  alt=""
+                  src="./public/ellipse-stroke@2x.png"
+                />
 
-          <div class="image-20-parent">
-            <img class="image-20-icon" alt="" src="./public/image-20@2x.png" />
-
-            <i class="trendingoutfits">TrendingOutfits</i>
+                <div class="group-child"></div>
+                <img
+                  class="ellipse-2-stroke"
+                  alt=""
+                  src="./public/ellipse-2-stroke@2x.png"
+                />
+              </a>
+            </div>
           </div>
         </div>
         <div class="frame-inner">
           <div class="frame-parent">
             <div class="frame1">
-              <a class="home" href="./h-o-m-e-page.html" id="home">Home</a>
+              <a class="home" href="./index.html" id="home">Home</a>
               <a class="sale" href="./s-a-l-e-page.html" id="sale">Sale</a>
             </div>
             <div class="frame2">
@@ -120,7 +132,7 @@
                     src="./public/image-21@2x.png"
                   />
 
-                  <i class="trendingoutfits">TrendingOutfits</i>
+                  <i class="trendingoutfits1">TrendingOutfits</i>
                 </div>
               </div>
             </div>
@@ -137,10 +149,17 @@
         });
       }
       
+      var groupLink = document.getElementById("groupLink");
+      if (groupLink) {
+        groupLink.addEventListener("click", function (e) {
+          window.location.href = "./login.html";
+        });
+      }
+      
       var home = document.getElementById("home");
       if (home) {
         home.addEventListener("click", function (e) {
-          window.location.href = "./h-o-m-e-page.html";
+          window.location.href = "./h-o-m-e-p-a-g-e.html";
         });
       }
       
