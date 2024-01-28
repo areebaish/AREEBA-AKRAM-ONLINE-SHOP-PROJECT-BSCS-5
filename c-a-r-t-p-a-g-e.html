@@ -31,58 +31,84 @@
             <p class="your-cart-is">Your Cart Is Empty</p>
           </i>
         </div>
-        <div class="rectangle-parent7">
-          <div class="group-child14"></div>
-          <div class="continue-shopping">Continue Shopping</div>
-        </div>
+        <a class="group-wrapper" href="./h-o-m-e-p-a-g-e.html" id="frameLink">
+          <div class="rectangle-parent7">
+            <div class="group-child15"></div>
+            <div class="continue-shopping">Continue Shopping</div>
+          </div>
+        </a>
         <button class="group-button" id="groupButton">
-          <div class="group-child15"></div>
+          <div class="group-child16"></div>
           <b class="add-to-cart">ADD TO CART</b>
         </button>
       </div>
-      <div class="footer2">
-        <div class="footer-item"></div>
-        <div class="service-container">
-          <div class="service2">SERVICE</div>
-          <div class="about-trendingoutfitscom2">About TrendingOutfitscom</div>
-          <div class="products2">products</div>
-          <div class="instagram2">Instagram</div>
-          <div class="privacy-policy2">Privacy policy & terms</div>
-          <div class="contact-us4">Contact Us</div>
-          <div class="facebook2">Facebook</div>
-          <div class="support2">SUPPORT</div>
-          <div class="follow-us-on2">FOLLOW US ON</div>
-          <div class="group-child16"></div>
-          <div class="for-yout-daily-outfit-group">
-            <div class="for-yout-daily1">For yout daily outfit</div>
-            <div class="trendingoutfits-container">
-              <i class="trendingoutfits4">TrendingOutfits</i>
+      <div class="footer3">
+        <div class="footer-child1"></div>
+        <div class="service-parent1">
+          <div class="service3">SERVICE</div>
+          <div class="about-trendingoutfitscom3">About TrendingOutfitscom</div>
+          <div class="products3">products</div>
+          <div class="instagram3">Instagram</div>
+          <div class="privacy-policy3">Privacy policy & terms</div>
+          <div class="contact-us5">Contact Us</div>
+          <div class="facebook3">Facebook</div>
+          <div class="support3">SUPPORT</div>
+          <div class="follow-us-on3">FOLLOW US ON</div>
+          <div class="group-child17"></div>
+          <div class="for-yout-daily-outfit-container">
+            <div class="for-yout-daily2">For yout daily outfit</div>
+            <div class="trendingoutfits-frame">
+              <i class="trendingoutfits5">TrendingOutfits</i>
             </div>
           </div>
         </div>
-        <img class="image-21-icon2" alt="" src="./public/image-21@2x.png" />
+        <img class="image-21-icon3" alt="" src="./public/image-21@2x.png" />
       </div>
       <div class="nav2">
         <div class="nav-child1"></div>
-        <input class="group-input" placeholder="  Search.." type="text" />
+        <input class="nav-child2" placeholder="  Search.." type="text" />
 
         <div class="trendingoutfits-parent">
-          <i class="trendingoutfits5">TrendingOutfits</i>
+          <i class="trendingoutfits6">TrendingOutfits</i>
           <img class="image-20-icon2" alt="" src="./public/image-20@2x.png" />
         </div>
-        <img class="bell-icon2" alt="" src="./public/bell@2x.png" />
+        <a class="ellipse-stroke-container" href="./login.html" id="groupLink">
+          <img
+            class="ellipse-stroke-icon2"
+            alt=""
+            src="./public/ellipse-stroke@2x.png"
+          />
 
-        <img class="nav-child2" alt="" src="./public/group-6@2x.png" />
-
+          <div class="group-child18"></div>
+          <img
+            class="ellipse-2-stroke2"
+            alt=""
+            src="./public/ellipse-2-stroke@2x.png"
+          />
+        </a>
         <a class="image-312"> </a>
       </div>
     </div>
 
     <script>
+      var frameLink = document.getElementById("frameLink");
+      if (frameLink) {
+        frameLink.addEventListener("click", function (e) {
+          window.location.href = "./h-o-m-e-p-a-g-e.html";
+        });
+      }
+      
       var groupButton = document.getElementById("groupButton");
       if (groupButton) {
         groupButton.addEventListener("click", function (e) {
           window.location.href = "./s-a-l-e-page.html";
+        });
+      }
+      
+      var groupLink = document.getElementById("groupLink");
+      if (groupLink) {
+        groupLink.addEventListener("click", function (e) {
+          window.location.href = "./login.html";
         });
       }
       </script>

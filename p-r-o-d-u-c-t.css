@@ -22,7 +22,7 @@
     transform: translateX(-8px) translateY(8px);
   }
 }
-.group-child20 {
+.group-icon {
   position: absolute;
   top: 0;
   left: 0;
@@ -74,14 +74,14 @@
   background-color: #d47373;
 }
 .adans-libas-marguerite-formal-parent,
-.group-child21 {
+.group-child22 {
   position: absolute;
   top: 159px;
   left: 818.6px;
   width: 508px;
   height: 568.8px;
 }
-.group-child21 {
+.group-child22 {
   top: 0;
   left: 0;
   background-color: var(--color-white);
@@ -99,7 +99,7 @@
   color: var(--color-black);
   text-align: center;
 }
-.rectangle-parent25 {
+.rectangle-parent22 {
   cursor: pointer;
   border: 0;
   padding: 0;
@@ -110,11 +110,11 @@
   width: 360px;
   height: 102px;
 }
-.rectangle-parent25:active {
+.rectangle-parent22:active {
   animation: 1s ease 0s infinite normal none shadow-inset-center;
   opacity: 1;
 }
-.group-child22 {
+.group-child23 {
   position: absolute;
   top: 0;
   left: 0;
@@ -132,7 +132,7 @@
   width: 204.5px;
   height: 32.6px;
 }
-.rectangle-parent26 {
+.rectangle-parent23 {
   text-decoration: none;
   position: absolute;
   top: 450.6px;
@@ -144,7 +144,7 @@
   font-size: var(--font-size-7xl-8);
   color: inherit;
 }
-.rectangle-parent26:hover {
+.rectangle-parent23:hover {
   animation: 1s ease 0s infinite normal none shadow-pop-tr;
   opacity: 1;
 }
@@ -161,7 +161,7 @@
   left: 146.6px;
   font-weight: 600;
 }
-.group-child23 {
+.group-child24 {
   position: absolute;
   top: 215.3px;
   left: 0;
@@ -169,7 +169,7 @@
   height: 27px;
   object-fit: cover;
 }
-.group-child24 {
+.group-child25 {
   position: absolute;
   top: 0;
   left: 19.8px;
@@ -197,15 +197,15 @@
   height: 142px;
   object-fit: cover;
 }
-.group-child25,
-.rectangle-parent27 {
+.group-child26,
+.rectangle-parent24 {
   position: absolute;
   top: 0;
   left: 224.9px;
   width: 231px;
   height: 216.2px;
 }
-.group-child25 {
+.group-child26 {
   left: 13.5px;
   border-radius: var(--br-3xs);
   background-color: var(--color-white);
@@ -233,15 +233,15 @@
   left: 141px;
   color: var(--color-deepskyblue);
 }
-.group-child26,
-.rectangle-parent28 {
+.group-child27,
+.rectangle-parent25 {
   position: absolute;
   top: 0;
   left: 475.9px;
   width: 231px;
   height: 216.2px;
 }
-.group-child26 {
+.group-child27 {
   left: 13.4px;
   border-radius: var(--br-3xs);
   background-color: var(--color-white);
@@ -258,15 +258,15 @@
   left: 133px;
   color: var(--color-deepskyblue);
 }
-.group-child27,
-.rectangle-parent29 {
+.group-child28,
+.rectangle-parent26 {
   position: absolute;
   top: 0;
   left: 720.9px;
   width: 231px;
   height: 216.2px;
 }
-.group-child27 {
+.group-child28 {
   left: 0;
   border-radius: var(--br-3xs);
   background-color: var(--color-white);
@@ -292,7 +292,7 @@
   color: var(--color-deepskyblue);
 }
 .group-parent5,
-.rectangle-parent30 {
+.rectangle-parent27 {
   position: absolute;
   top: 0;
   left: 0;
@@ -314,7 +314,7 @@
   height: 336.8px;
   font-size: 39px;
 }
-.footer-child2 {
+.footer-child3 {
   position: absolute;
   bottom: 0;
   left: 0;
@@ -322,13 +322,13 @@
   width: 1271.1px;
   height: 383px;
 }
-.about-trendingoutfitscom4,
-.service4 {
+.about-trendingoutfitscom5,
+.service5 {
   position: absolute;
   text-transform: capitalize;
   display: inline-block;
 }
-.service4 {
+.service5 {
   bottom: 89.4px;
   left: 468.8px;
   font-size: var(--font-size-lg-8);
@@ -336,19 +336,19 @@
   width: 90.1px;
   height: 31.5px;
 }
-.about-trendingoutfitscom4 {
+.about-trendingoutfitscom5 {
   bottom: 37.3px;
   left: 678.2px;
   width: 224px;
   height: 25.9px;
 }
-.contact-us7,
-.facebook4,
-.follow-us-on4,
-.instagram4,
-.privacy-policy4,
-.products4,
-.support4 {
+.contact-us8,
+.facebook5,
+.follow-us-on5,
+.instagram5,
+.privacy-policy5,
+.products5,
+.support5 {
   position: absolute;
   bottom: 42.4px;
   left: 468.8px;
@@ -357,42 +357,42 @@
   width: 115.5px;
   height: 25.9px;
 }
-.contact-us7,
-.facebook4,
-.follow-us-on4,
-.instagram4,
-.privacy-policy4,
-.support4 {
+.contact-us8,
+.facebook5,
+.follow-us-on5,
+.instagram5,
+.privacy-policy5,
+.support5 {
   bottom: 30.8px;
   left: 970px;
   width: 95.7px;
 }
-.contact-us7,
-.facebook4,
-.follow-us-on4,
-.privacy-policy4,
-.support4 {
+.contact-us8,
+.facebook5,
+.follow-us-on5,
+.privacy-policy5,
+.support5 {
   bottom: 0.1px;
   left: 678.2px;
   width: 218.8px;
 }
-.contact-us7,
-.facebook4,
-.follow-us-on4,
-.support4 {
+.contact-us8,
+.facebook5,
+.follow-us-on5,
+.support5 {
   bottom: 0;
   left: 469.7px;
   width: 103.3px;
 }
-.facebook4,
-.follow-us-on4,
-.support4 {
+.facebook5,
+.follow-us-on5,
+.support5 {
   bottom: 0.1px;
   left: 970.4px;
   width: 70.9px;
 }
-.follow-us-on4,
-.support4 {
+.follow-us-on5,
+.support5 {
   bottom: 89.1px;
   left: 678.2px;
   font-size: var(--font-size-lg-8);
@@ -400,21 +400,21 @@
   width: 112px;
   height: 31.5px;
 }
-.follow-us-on4 {
+.follow-us-on5 {
   bottom: 89.4px;
   left: 970px;
   width: 159.3px;
 }
-.group-child28 {
+.group-child29 {
   position: absolute;
   bottom: 168.1px;
   left: -0.5px;
-  border-top: 1px solid var(--color-silver-300);
+  border-top: 1px solid var(--color-silver-200);
   box-sizing: border-box;
   width: 1428.5px;
   height: 1px;
 }
-.for-yout-daily2 {
+.for-yout-daily4 {
   position: absolute;
   bottom: 0;
   left: 9.7px;
@@ -423,26 +423,26 @@
   width: 180.1px;
   height: 33.5px;
 }
-.trendingoutfits-frame,
-.trendingoutfits7 {
+.trendingoutfits-wrapper2,
+.trendingoutfits9 {
   position: absolute;
   left: 0;
   width: 176.1px;
   height: 62px;
 }
-.trendingoutfits7 {
+.trendingoutfits9 {
   bottom: 0;
   display: inline-block;
   font-weight: 600;
 }
-.trendingoutfits-frame {
+.trendingoutfits-wrapper2 {
   bottom: 24.5px;
   text-align: center;
   font-size: var(--font-size-xl-5);
   color: var(--color-indianred-200);
   font-family: var(--font-inter);
 }
-.for-yout-daily-outfit-container {
+.for-yout-daily-outfit-parent2 {
   position: absolute;
   bottom: 27.2px;
   left: 132.5px;
@@ -451,14 +451,14 @@
   font-size: var(--font-size-lg-8);
   color: var(--color-black);
 }
-.service-parent1 {
+.service-parent3 {
   position: absolute;
   bottom: 146.7px;
   left: 0;
   width: 1427.5px;
   height: 168.6px;
 }
-.image-21-icon4 {
+.image-21-icon5 {
   position: absolute;
   top: 108.1px;
   left: 41.5px;
@@ -467,13 +467,10 @@
   object-fit: cover;
   mix-blend-mode: linear-burn;
 }
-.footer4,
-.nav-child4 {
+.footer5 {
   position: absolute;
-  left: 0;
-}
-.footer4 {
   bottom: 0;
+  left: 0;
   width: 1427.5px;
   height: 383px;
   text-align: left;
@@ -481,89 +478,141 @@
   color: var(--color-darkslategray);
   font-family: var(--font-mulish);
 }
-.nav-child4 {
-  top: 0;
+.nav-child5 {
+  position: relative;
   background-color: var(--color-white);
   box-shadow: 0 0 12px rgba(0, 0, 0, 0.25);
-  width: 1365px;
-  height: 102px;
+  width: 1338px;
+  height: 101.8px;
+  z-index: 0;
 }
-.nav-child5 {
-  border: 0.2px solid var(--color-black);
+.nav-child6 {
+  border: 0;
   outline: 0;
   font-family: var(--font-inter);
   font-size: var(--font-size-base);
   background-color: var(--color-mistyrose-100);
   position: absolute;
-  top: 24px;
-  left: 456px;
+  margin: 0 !important;
+  top: 26.3px;
+  left: 416px;
   border-radius: var(--br-6xl);
+  width: 361.8px;
+  height: 49.2px;
+  padding: 13.699999999999818px 15.600000000000364px var(--padding-base-5);
   box-sizing: border-box;
-  width: 448.6px;
-  height: 49.3px;
-  padding: var(--padding-xs) 40px 13.299999999999955px;
   color: var(--color-gray-300);
+  z-index: 1;
 }
-.bell-icon4,
-.nav-child6 {
-  position: absolute;
-  top: 30.9px;
-  left: 1296.5px;
-  width: 38.1px;
-  height: 40.3px;
+.image-20-icon4 {
+  position: relative;
+  width: 71.8px;
+  height: 76px;
   object-fit: cover;
+  mix-blend-mode: linear-burn;
+  z-index: 0;
 }
-.bell-icon4 {
-  top: 22.7px;
-  left: 1220.4px;
-  width: 53.6px;
-  height: 56.7px;
-  object-fit: contain;
+.trendingoutfits10 {
+  position: absolute;
+  margin: 0 !important;
+  top: 23px;
+  left: 64.3px;
+  display: inline-block;
+  font-weight: 700;
+  width: 212.3px;
+  height: 30px;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.image-20-parent1 {
+  margin: 0 !important;
+  position: absolute;
+  top: 12px;
+  left: 13px;
+  width: 279.8px;
+  height: 76px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+  z-index: 2;
 }
 .image-314 {
   text-decoration: none;
-  position: absolute;
-  top: 31.1px;
-  left: 1167.8px;
-  width: 30.3px;
-  height: 33.1px;
-  background-image: url(./public/image-314@3x.png);
+  position: relative;
+  width: 29.8px;
+  height: 33px;
+  background-image: url(./public/image-31@3x.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
   cursor: pointer;
 }
-.trendingoutfits8 {
+.ellipse-stroke-icon4 {
   position: absolute;
-  top: 23px;
-  left: 89.7px;
-  display: inline-block;
-  font-weight: 700;
-  width: 167.2px;
-  height: 30.2px;
+  top: 9.9px;
+  left: 13.2px;
+  width: 10.6px;
+  height: 11.4px;
+  object-fit: cover;
 }
-.image-20-icon4 {
+.group-child30 {
   position: absolute;
   top: 0;
   left: 0;
-  width: 83.4px;
-  height: 90.2px;
-  object-fit: cover;
-  mix-blend-mode: linear-burn;
+  border-radius: 50%;
+  width: 37.3px;
+  height: 40.2px;
 }
-.nav4,
-.trendingoutfits-parent1 {
+.ellipse-2-stroke4 {
   position: absolute;
-  top: 12px;
-  left: 13.3px;
-  width: 256.9px;
-  height: 90.2px;
+  top: 19px;
+  left: 8.6px;
+  width: 19.7px;
+  height: 10.6px;
+  object-fit: cover;
+}
+.ellipse-stroke-parent2 {
+  text-decoration: none;
+  position: relative;
+  width: 37.3px;
+  height: 40.2px;
+  cursor: pointer;
+}
+.ellipse-stroke-parent2:hover {
+  animation: 1s ease 0s infinite normal none shadow-inset-center;
+  opacity: 1;
+}
+.image-31-parent1,
+.nav4 {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.image-31-parent1 {
+  margin: 0 !important;
+  top: 31px;
+  left: 1144.7px;
+  width: 95px;
+  height: 40.2px;
+  flex-direction: row;
+  gap: var(--gap-9xl);
+  z-index: 3;
 }
 .nav4 {
   top: 0;
   left: 0;
-  width: 1365px;
-  height: 102.3px;
+  flex-direction: column;
+  gap: var(--gap-3xs);
+}
+.navigation-bar3 {
+  position: absolute;
+  top: 0;
+  left: 2px;
+  width: 1438px;
+  height: 102px;
   font-size: var(--font-size-xl);
   color: var(--color-indianred-100);
 }

@@ -1,5 +1,5 @@
 
-  # Areeba AKRAM online shop  project bscs 5
+  # Areeba AKRAM project bscs 5 UPDATED
 
   Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
 
